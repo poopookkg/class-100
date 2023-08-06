@@ -1,0 +1,27 @@
+body{
+    background:linear-gradient(lime,aqua);
+    font-size: 30px;
+    color: hotpink;
+    text-align: center;
+}
+#imgbutt,#imgbutt2{
+    height: 240px;
+    width: 290px;
+    border-radius: 50px;
+}
+#dbutt1,#dbutt2{
+    width:350px ;
+    height: 350px;
+    border: orangered 15px solid;
+    border-radius: 15px;
+}
+#textbutt{
+    width:40% ;
+}
+#butt1{
+    font-size: 25px;
+    padding:5px;
+    border: red 5px solid;
+    border-radius: 10px;
+    width: 30%;
+}
